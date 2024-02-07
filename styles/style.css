@@ -1,0 +1,35 @@
+/*Gradient Background*/
+
+.gradient-background {
+  background: linear-gradient(300deg, #ffcc00, #df3d10, #ffcc00);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+/*Navigation Bar Styles*/
+.nav-bar-app-title {
+  font-weight: bold;
+}
+.nav-bar-bg {
+  background-color: #f0f0ef;
+}
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus {
+  outline: none;
+  border: 2px solid white;
+  background-color: orange;
+  box-shadow: none;
+}
