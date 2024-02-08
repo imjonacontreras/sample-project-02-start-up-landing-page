@@ -1,7 +1,7 @@
 /*Gradient Background*/
 
 .gradient-background {
-  background: linear-gradient(300deg, #ffcc00, #ff4400b9, #ffcc00);
+  background: linear-gradient(300deg, #f8d135, #ff4400b9, #ffcc00);
   background-size: 180% 180%;
   animation: gradient-animation 18s ease infinite;
 }
@@ -10,7 +10,7 @@
   0% {
     background-position: 0% 50%;
   }
-  50% {
+  W 50% {
     background-position: 100% 50%;
   }
   100% {
@@ -32,4 +32,24 @@
   border: 2px solid white;
   background-color: orange;
   box-shadow: none;
+}
+
+/*Feature Section Styles*/
+
+.icon-square {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 0.75rem;
+  background-color: orange;
+}
+
+.img-testimonials {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  border: 5px solid orange;
+}
+
+.section-titles {
+  color: rgb(71, 55, 25);
 }
