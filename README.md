@@ -1,8 +1,8 @@
-# Project Name : sample-project-02-start-up-landing-page
+# Project Name : sample-project-02-start-up-landing-page 🍛
 
 **Demo Link** : https://imjonacontreras.github.io/sample-project-02-start-up-landing-page/
 
-The 🍛 RiceMix  Landing Page is a showcase for a fictional brand that offers a diverse range of rice-based meals. Utilizing HTML, CSS (including Bootstrap) for its responsive design and modern aesthetic, this landing page provides a visually appealing and user-friendly experience for visitors.
+The RiceMix  Landing Page is a showcase for a fictional brand that offers a diverse range of rice-based meals. Utilizing HTML, CSS (including Bootstrap) for its responsive design and modern aesthetic, this landing page provides a visually appealing and user-friendly experience for visitors.
 
 ## Key Features:
 - **Responsive Design:** The landing page is designed to be accessible and visually appealing across various devices, including desktops, tablets, and smartphones.
