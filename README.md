@@ -5,9 +5,9 @@
 The 🍛 RiceMix  Landing Page is a showcase for a fictional brand that offers a diverse range of rice-based meals. Utilizing HTML, CSS (including Bootstrap) for its responsive design and modern aesthetic, this landing page provides a visually appealing and user-friendly experience for visitors.
 
 ## Key Features:
-**Responsive Design:** The landing page is designed to be accessible and visually appealing across various devices, including desktops, tablets, and smartphones.
-**Newsletter Signup:** Visitors can subscribe to the Rice Mix Meals newsletter to receive updates on new recipes, promotions, and cooking tips.
-**Bootstrap Integration:** Leveraging Bootstrap's components and utilities for streamlined development and a polished, professional appearance.
+- **Responsive Design:** The landing page is designed to be accessible and visually appealing across various devices, including desktops, tablets, and smartphones.
+- **Newsletter Signup:** Visitors can subscribe to the Rice Mix Meals newsletter to receive updates on new recipes, promotions, and cooking tips.
+- **Bootstrap Integration:** Leveraging Bootstrap's components and utilities for streamlined development and a polished, professional appearance.
 
 ## Crediting Resources Used
 
