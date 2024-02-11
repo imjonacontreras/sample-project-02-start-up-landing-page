@@ -26,5 +26,3 @@ In developing this project, I have utilized various resources, including images,
   - Source : https://icon-icons.com/
 
 I express our sincere gratitude to the creators and platforms that provided these resources, enabling us to enhance the visual appeal and functionality of our project while adhering to proper attribution practices.
-
-Testing [Unsplash]
