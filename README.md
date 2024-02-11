@@ -18,7 +18,8 @@ In developing this project, I have utilized various resources, including images,
 - **Title Section - Mockup Phone Background Image**
   - Source : https://andianne.com/8-easy-rice-recipes/
 - **Reviews Section - Sample Profile Photo Image**
-  - Source : https://www.beautybites.org/healthy-fried-rice-breakfast-bowl/ | https://shortgirltallorder.com/best-vegan-fried-rice
+  - Source : https://www.beautybites.org/healthy-fried-rice-breakfast-bowl/
+  - Source : https://shortgirltallorder.com/best-vegan-fried-rice
 - **Background Image**: 
   - Source: https://codepen.io/P1N2O/pen/pyBNzX
 - **Other Icons**:
