@@ -25,4 +25,4 @@ In developing this project, I have utilized various resources, including images,
 - **Other Icons**:
   - Source : https://icon-icons.com/
 
-We express our sincere gratitude to the creators and platforms that provided these resources, enabling us to enhance the visual appeal and functionality of our project while adhering to proper attribution practices.
+I express our sincere gratitude to the creators and platforms that provided these resources, enabling us to enhance the visual appeal and functionality of our project while adhering to proper attribution practices.
